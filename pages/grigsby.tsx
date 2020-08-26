@@ -6,10 +6,11 @@ const Page = () => {
     return (
         <Container maxWidth="lg">
             <Grid container spacing={3}>
-                <Sensor name="Chico" />
-                <Sensor name="Pleasanton" />
-                <Sensor name="San_Ramon" />
-                <Sensor name="Redding" />
+                <Sensor name="Wyne" />
+                <Sensor name="Grigsby_Ranch" />
+                <Sensor name="Gammie" />
+                <Sensor name="Matt_Oma" />
+                <Sensor name="Spencers" />
             </Grid>
         </Container>
     );
